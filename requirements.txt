@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+yfinance
+transformers
+torch
+python-dotenv
+jupyter
+scipy
+feedparser
+requests
+streamlit
+statsmodels
